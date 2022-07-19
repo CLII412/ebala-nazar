@@ -205,7 +205,6 @@ select {
   overflow-y: auto;
   background-color: var(--overlay-color);
 }
-
 /* loader */
 
 .loader {
